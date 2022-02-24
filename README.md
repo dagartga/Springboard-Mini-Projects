@@ -1,2 +1,2 @@
 # Springboard
-Coursework for Springboard Data Science Career Track
+Coursework for Springboard Machine Learning Career Track
